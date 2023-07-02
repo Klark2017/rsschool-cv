@@ -15,7 +15,7 @@
 #### **University:** Admiral Makarov State University of maritime and inland shipping, Civil Engineering major
 
 ## **Languages**
-* # Russian
-* # English
+* ### Russian
+* ### English
 
 
